@@ -1,0 +1,12 @@
+{
+  "currentList": null,
+  "lists":
+  [
+    {
+      "name": "test1",
+      "players":[
+        {"name": "olympic","uuid": "sdfsdfsdf"}
+      ]
+    }
+  ]
+}
